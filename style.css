@@ -1,0 +1,41 @@
+/* div{
+    background-color: red;
+    font-weight: bold;
+    font-size: 32px;
+    color: white ;
+} */
+
+.odd{
+    font-family: 'verdana' 'DejaVu Sans' 'sans-serif'  ; 
+    background-color: #ffc0cbf5;
+}
+
+#Second{
+    font-size: 36px;
+    color: rgb(0, 0,100);
+}
+
+.Third{
+    font-size: 24px;
+}
+
+#Fourth{
+    font-size: 24px;
+    background-color: #90ee90;
+    font-weight: bold;
+}
+
+.first-button,.second-button{
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.first-button{
+    color: white;
+    background-color: #000000;
+}
+
+.second-button{
+    background-color: yellow;
+    color: black;
+}
